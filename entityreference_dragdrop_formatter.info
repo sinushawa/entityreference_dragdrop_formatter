@@ -1,0 +1,6 @@
+name = entity reference drag & drop formatter
+description = "Add a formatter to entity reference field making entity reference Draggable, droppable or both"
+package = Formatters
+core = 7.x
+files[] = entityreference_dragdrop_formatter.module
+scripts[] = entityreference_dragdrop_formatter.js
